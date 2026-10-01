@@ -60,7 +60,7 @@
 
  **Backend lead** — Yurra4 | БД, API, авторизація, інтеграція Judge0, XP, безпека
  
- **Frontend lead** — WizardSM,Roman1328 | Дизайн-система, сторінки, редактор коду, профіль, UX 
+ **Frontend lead** — WizardSM, Roman1328 | Дизайн-система, сторінки, редактор коду, профіль, UX 
 
 
 
